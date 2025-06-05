@@ -1,4 +1,4 @@
-# Olá, eu sou @nome
+# Olá, eu sou Thamyris Saldanha
 
 👋 **Hi, I’m @saldanhathamyris**  
 Bacharel em Administração e cursando Análise e Desenvolvimento de Sistemas
